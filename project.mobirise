@@ -1,15 +1,17 @@
 {
   "settings": {
-    "currentPage": "Tattoo.html",
+    "currentPage": "Drawings.html",
     "versionFirst": "2.9",
     "versionPublish": "3.12.1",
     "name": "nick de rudder",
     "favicon": "",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-74980344-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-93008629-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "theme": {},
-    "uniqCompNum": 0
+    "uniqCompNum": 0,
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
