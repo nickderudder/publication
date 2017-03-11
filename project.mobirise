@@ -82,8 +82,8 @@
           "_name": "header4",
           "_styles": {
             "H1": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "color": "#ffffff",
               "font-size": "32px",
               "text-align": "center"
@@ -97,6 +97,11 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "12px"
+            },
+            "I": {
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "header4-68",
@@ -119,65 +124,9 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "<i>Nick De Rudder</i>",
+          "title": "Nick De Rudder",
           "text": "",
           "buttons": "    <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://www.instagram.com/nickskin/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Instagram</a>          "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "color": "#c1c1c1",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts3-h",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<br><br><br><br><br><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons-Licentie\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\"></a><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><br></a><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><a href=\"https://www.instagram.com/nickderudder/\" target=\"_blank\" class=\"text-gray\">instagram</a></p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><b>&nbsp;</b></p><p class=\"mbr-contacts__text\"><strong><br></strong></p>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "nick.de.rudder@hotmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-link\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">contact me</a>"
         }
       ]
     },
