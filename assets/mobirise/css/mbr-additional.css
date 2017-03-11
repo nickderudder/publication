@@ -1,13 +1,32 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
-
-#header4-68 H1 {
-  font-family: 'Roboto', sans-serif;
+#dropdown-menu-2btn-4 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-4 .nav .link,
+#dropdown-menu-2btn-4 .dropdown-item {
+  font-size: 1em;
   color: #ffffff;
-  font-size: 36px;
+}
+#dropdown-menu-2btn-4 .navbar,
+#dropdown-menu-2btn-4 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-4 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-4 .dropdown-menu a:hover,
+#dropdown-menu-2btn-4 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-4 .navbar-toggler {
+  color: #ffffff;
+}
+#header4-68 H1 {
+  font-family: 'Oxygen', sans-serif;
+  color: #ffffff;
+  font-size: 32px;
   text-align: center;
 }
 #header4-68 P {
@@ -16,19 +35,11 @@
 }
 #header4-68 .btn {
   font-family: 'Oxygen', sans-serif;
+  font-size: 12px;
 }
-#ext_menu-72 .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-72.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#ext_menu-72 .mbr-navbar__items a {
-  font-size: 18px;
-  font-family: 'Roboto', sans-serif;
-}
-#ext_menu-72 .mbr-navbar__hamburger {
-  color: #ffffff;
+#contacts3-h P {
+  color: #c1c1c1;
+  text-align: left;
 }
 #menu-30 .mbr-brand__name {
   font-size: 16px;
@@ -41,6 +52,7 @@
 }
 #contacts3-26 P {
   color: #c1c1c1;
+  text-align: left;
 }
 #header1-73 P {
   font-size: 15px;
@@ -65,11 +77,15 @@
 #menu-30 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#menu-30 .mbr-navbar__items a {
+  font-size: 12px;
+}
 #slider-31 H1 {
   font-family: 'Roboto', sans-serif;
 }
 #contacts3-26 P {
   color: #c1c1c1;
+  text-align: left;
 }
 #menu-30 .mbr-brand__name {
   font-size: 16px;
@@ -82,20 +98,29 @@
 }
 #contacts3-26 P {
   color: #c1c1c1;
-}
-#menu-30 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-30.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-30 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#contacts3-26 P {
-  color: #c1c1c1;
+  text-align: left;
 }
 
+#dropdown-menu-2btn-4 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-4 .nav .link,
+#dropdown-menu-2btn-4 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-4 .navbar,
+#dropdown-menu-2btn-4 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-4 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-4 .dropdown-menu a:hover,
+#dropdown-menu-2btn-4 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-4 .navbar-toggler {
+  color: #ffffff;
+}
 #slider-2 H1 {
   font-family: 'Roboto', sans-serif;
   text-align: right;
@@ -103,15 +128,50 @@
 #slider-45 H1 {
   color: #ffffff;
 }
-#menu-30 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-30.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#menu-30 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
 #contacts3-26 P {
   color: #c1c1c1;
+  text-align: left;
+}
+#dropdown-menu-2btn-6 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-6 .nav .link,
+#dropdown-menu-2btn-6 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-6 .navbar,
+#dropdown-menu-2btn-6 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-6 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-6 .dropdown-menu a:hover,
+#dropdown-menu-2btn-6 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-6 .navbar-toggler {
+  color: #ffffff;
+}
+#slider-a H1 {
+  color: #ffffff;
+}
+#contacts3-b P {
+  color: #c1c1c1;
+  text-align: left;
+}
+#menu-c .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-c.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-c .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-c .mbr-navbar__items a {
+  font-size: 12px;
+}
+#contacts3-h P {
+  color: #c1c1c1;
+  text-align: left;
 }
